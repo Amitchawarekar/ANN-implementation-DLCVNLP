@@ -8,8 +8,10 @@ creating envs -
 
 conda create --prefix ./envs python=3.7 -y
 
-activate env
+activate env-
+
 conda activate ./envs
 
 Reference -
+
 Conda env commands
