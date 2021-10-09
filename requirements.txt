@@ -7,5 +7,5 @@ PyYAML
 
 ## Local package Installation
 
--e , ### <<< TO install local packages defined in setup.py
+#-e . ### <<< TO install local packages defined in setup.py
 
